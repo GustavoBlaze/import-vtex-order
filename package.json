@@ -1,0 +1,12 @@
+{
+  "name": "import-vtex-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
